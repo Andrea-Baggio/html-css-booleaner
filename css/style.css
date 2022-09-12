@@ -72,19 +72,31 @@ div>.evidenziatore{
     padding: 15px;
 }
 
-#graph{
+#graph {
     background-image: url('img/graph.jpg');
     margin-top: -77px;
 }
 
-#monitor>strong{
+#monitor>strong {
     margin-bottom: 90px;
     font-size: 25px;
     color: white;    
 }
 
-#graph>strong{
+#graph>strong {
     margin-bottom: 90px;
     font-size: 25px;
     color: white;    
+}
+
+#dark{
+    background-color: rgba(0, 106, 255, 0.689);
+}
+
+.light {
+    background-color: rgba(135, 230, 250, 0.671);
+}
+
+td{
+    width: 630px;
 }
