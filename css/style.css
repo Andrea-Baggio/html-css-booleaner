@@ -1,0 +1,18 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#container{
+    width: 100%;
+    height: 130px;
+    background-color: rgba(0, 96, 231, 0.653);
+}
+
+#logo{
+    height: 37%;
+    width: auto;
+    margin-top: 67px;
+    margin-left: 7px;
+}
