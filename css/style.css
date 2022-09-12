@@ -4,6 +4,7 @@
     box-sizing: border-box;
 }
 
+
 #container-header {
     height: 110px;
     width: auto;
@@ -44,4 +45,14 @@ header>h1 {
 
 #didascalia>div {
     font-size: 11px;
+}
+
+p>#evidenziatore {
+    color: black;
+    background-color:#FFFF00;
+}
+
+#lista{
+    margin-top: 13px;
+    margin-left: 16px;
 }
