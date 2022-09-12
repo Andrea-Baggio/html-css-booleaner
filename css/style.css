@@ -6,13 +6,14 @@
 
 #container{
     width: 100%;
-    height: 130px;
+    height: 178px;
     background-color: rgba(0, 96, 231, 0.653);
+    background-image: url('img/pattern.png');
 }
 
 #logo{
     height: 37%;
     width: auto;
-    margin-top: 67px;
-    margin-left: 7px;
+    margin-top: 90px;
+    margin-left: 10px;
 }
